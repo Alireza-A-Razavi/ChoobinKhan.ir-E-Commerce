@@ -18,30 +18,25 @@
 	background: white;
 	margin-right: 10px;
 	margin-left: 15px;
-	margin-top: : 15px;
+	margin-top: : 25px;
 	margin-bottom: 15px;
 	box-shadow: 2px -1px 8px #000000;
     border:hidden 5px #000000;
     border-radius: 11px;
+
 }
 
 .costumer-name-box{
 	width: 200px;
 	height: 50px;
 	background:grey;
-	margin-top: 2.5px;
-	margin-bottom: 2.5px;
+	margin-top: 15px;
 	margin-right: 12px;
 	margin-left: 558px;
 	box-shadow: 2px -1px 8px #000000;
-    border:groove 8px #0f0c0f;
-    -moz-border-radius: 17px;
-    -webkit-border-radius: 17px;
+    border:groove 0px #000000;
     border-radius: 17px;
-
-
-
-
+    position:absolute;
 
 }
 
@@ -50,8 +45,52 @@
 	color: black;
 	float: center;
 	margin-top: 25px;
-
 }
+
+.company-name-box {
+	width: 200px;
+	height: 50px;
+	background:grey;
+	margin-top: 15px;
+/*	margin-right: 62px;
+*/	margin-left: 350px;
+	box-shadow: 2px -1px 8px #000000;
+    border:groove 0px #000000;
+    border-radius: 17px;
+    position:absolute;
+}
+
+.date-ordered-at-box{
+	width: 200px;
+	height: 50px;
+	background:grey;
+	margin-top: 15px;
+/*	margin-right: 62px;
+*/	margin-left: 142px;
+	box-shadow: 2px -1px 8px #000000;
+    border:groove 0px #000000;
+    border-radius: 17px;
+    position:absolute;
+}
+
+.okay-box{
+	width: 118px;
+	height: 50px;
+	background:green;
+	margin-top: 15px;
+/*	margin-right: 62px;
+*/	margin-left: 5px;
+	box-shadow: 2px -1px 8px #000000;
+    border:groove 0px #000000;
+    border-radius: 17px;
+    position:absolute;
+}
+
+.username{
+	text-align: center;
+	margin-top: 15px;
+}
+
 .ghost{
 	width: 0px;
 	height:27.5px;
